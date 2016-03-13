@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.4" type="plugin" group="content">
+	<name>Content - Social networks</name>
+	<creationDate>20/02/2016</creationDate>
+	<license>GPL</license>
+	<version>1.0</version>
+	<author>Juraj Vysvader</author>
+	<copyright>Unisoftdev</copyright>
+	<authorEmail>admin@unisoftdev.com</authorEmail>
+	<authorUrl>https://www.unisoftdev.tech/</authorUrl>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<description>See tutorial: https://www.unisoftdev.tech/download/social-networks</description>
+	<files>
+                <filename plugin="socialshare">socialnetworks.php</filename>
+                <filename>index.html</filename>
+				<filename>socialnetworks.css</filename>
+				<filename>socialnetworks.js</filename>
+        </files>
+		<config></config>
+</extension>
